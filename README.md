@@ -1,4 +1,4 @@
-# Angular.io
+# Angular.io SUCKS
 [![Build Status][travis-badge]][travis-badge-url]
 
 Angular.io is site for Angular 2 **documentation** . 
